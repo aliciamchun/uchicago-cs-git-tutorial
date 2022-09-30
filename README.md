@@ -1,1 +1,2 @@
-Alicia M Chun aliciamchun
+Alicia M Chun aliciamchungit
+UChicago CS Git Tutorial
